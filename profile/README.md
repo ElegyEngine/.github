@@ -16,7 +16,7 @@ Elegy Engine is an umbrella project that encompasses the following:
 
 What Elegy is **not**:
 * A Unity/Unreal/Godot clone.
-  * This isn't your typical modern-day game engine. There is no integrated engine editor. Work is done in external tools, and when it comes to assets, it's just you and the filesystem.
+  * This isn't your typical modern-day game engine. There is no integrated engine editor. Work is done in external tools, and when it comes to project management, it's just you and the filesystem.
   * The workflow will feel right at home if you've modded Quake or Half-Life.
 * Meant for all genres, or even 2D.
   * Elegy aims to be usable for interactive first-person games. Whether it's a full-blown immersive sim shooter, or a walking simulator, that is the constraint.
