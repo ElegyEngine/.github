@@ -12,7 +12,7 @@ Elegy Engine is an umbrella project that encompasses the following:
   * Map compiler (TBA)
   * Model importer (TBA)
   * Project wizard (TBA)
-  * External developer console (TBA)
+  * [External developer console](https://github.com/ElegyEngine/ElegyDevConsoleApp)
 
 What Elegy is **not**:
 * A Unity/Unreal/Godot clone.
@@ -20,6 +20,6 @@ What Elegy is **not**:
   * The workflow will feel right at home if you've modded Quake or Half-Life.
 * Meant for all genres, or even 2D.
   * Elegy aims to be usable for interactive first-person games. Whether it's a full-blown immersive sim shooter, or a walking simulator, that is the constraint.
-  * This engine is essentially a specialisation of Godot, in a way. So, if you would like to make games of other genres (e.g. racing, puzzle, turn-based strategy), definitely consider using Godot itself.
+  * In a way, this engine is currently a specialisation of Godot. So, if you would like to make games of other genres (e.g. racing, puzzle, turn-based strategy), definitely consider using Godot itself.
 
-*Note: early under construction, check us out again in Q3 2023.*
+*Note: early under construction, check us out again in Q4 2023.*
