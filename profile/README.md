@@ -9,10 +9,10 @@ Elegy Engine is an umbrella project that encompasses the following:
   * Written in C#, targeting .NET 6 (soon 7), running on Windows and Linux at least.
   * MIT-licenced, free for everyone, for any purpose, forever.
 * Tools to aid the above:
-  * Map compiler (TBA)
-  * Model importer (TBA)
-  * Project wizard (TBA)
+  * [Map compiler](https://github.com/ElegyEngine/ElegyMapCompiler)
   * [External developer console](https://github.com/ElegyEngine/ElegyDevConsoleApp)
+  * Project wizard (TBA)
+  * Model importer (TBA)
 
 What Elegy is **not**:
 * A Unity/Unreal/Godot clone.
